@@ -12,3 +12,5 @@ uvicorn
 langserve
 sse_starlette
 transformers
+langchain_huggingface
+langchain_chroma
